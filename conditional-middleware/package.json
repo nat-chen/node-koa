@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "koa": "^2.13.1",
+    "koa-logger": "^3.2.1"
+  }
+}
