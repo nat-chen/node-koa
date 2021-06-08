@@ -20,7 +20,7 @@ app.use(async function pageNotFound(ctx) {
   }
 });
 
-app.listen(8888, () => {
+app.listen(3000, () => {
   console.log('Koa started to listen on port 3000');
 })
 
